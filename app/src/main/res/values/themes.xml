@@ -1,0 +1,9 @@
+<resources  xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.ChatApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gold</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/gold</item>
+    </style>
+
+    <!-- <style name="Theme.ChatApp" parent="Base.Theme.ChatApp" /> -->
+</resources>
